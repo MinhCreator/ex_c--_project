@@ -20,7 +20,7 @@ int cal_sum_in_number(int n) {
     
 }
 int bigest_number(int n, int m){
-    if (n > m ){
+    if (n > m){
         return 0;
     }
 

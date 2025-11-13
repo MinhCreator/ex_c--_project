@@ -66,7 +66,7 @@ int main() {
     int number;
     cout << "Enter number: ";
     cin >> number;
-
+    
     cout << isEconomical(number);
 
 }
